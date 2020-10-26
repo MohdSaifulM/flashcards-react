@@ -2,7 +2,7 @@
 
 Build a set of flashcards that runs in the browser.
 
-![]()
+![](./example.png)
 
 Start out with a hard coded set of flash cards:
 
