@@ -56,3 +56,6 @@ Create an edit mode where the user can edit any card.
 #### Further
 Allow the user to create multiple decks of cards
 
+## For Submission
+- Fork and clone this repo
+- Submit a pull request once complete
